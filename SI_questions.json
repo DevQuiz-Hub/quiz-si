@@ -1,0 +1,755 @@
+{
+  "settings": {
+    "show_progress": true,
+    "shuffle_options": true,
+    "show_explanation": true,
+    "shuffle_questions": true,
+    "ai_strictness_level": 8
+  },
+  "questions": [
+    {
+      "id": "q1_2023_A",
+      "type": "single_choice",
+      "options": [
+        "Un agente es un tipo de programa software cuya función es observar el entorno y reaccionar ante él, operando de forma autónoma",
+        "Los agentes pueden ser elementos autónomos de un sistema global",
+        "Un agente puede responder de diferente manera ante el mismo tipo de entradas",
+        "Los agentes deben tener capacidad de movimiento dentro de su entorno"
+      ],
+      "question": "Selecciona la falsa:",
+      "correct_answer": "Los agentes deben tener capacidad de movimiento dentro de su entorno"
+    },
+    {
+      "id": "q2_2023_A",
+      "type": "single_choice",
+      "options": [
+        "Un agente actúa siempre pensando en su objetivo",
+        "El entorno de un agente no puede cambiar. Si éste cambia, la arquitectura del agente también lo hará",
+        "Un agente puede tener capacidad de aprendizaje y puede cambiar sus reglas de actuación",
+        "Por lo general, un agente tiene memoria finita y no tiene un tiempo ilimitado para actuar"
+      ],
+      "question": "Selecciona la falsa:",
+      "correct_answer": "El entorno de un agente no puede cambiar. Si éste cambia, la arquitectura del agente también lo hará"
+    },
+    {
+      "id": "q3_2023_A",
+      "type": "single_choice",
+      "options": [
+        "Agente reactivo simple",
+        "Agente reactivo basado en modelos",
+        "Agente basado en objetivos",
+        "Agentes basados en utilidad"
+      ],
+      "question": "Los agentes que seleccionan las acciones a realizar sobre la base de la percepción actual, y no sobre el historial de percepciones, se denominan:",
+      "correct_answer": "Agente reactivo simple"
+    },
+    {
+      "id": "q4_2023_A",
+      "type": "single_choice",
+      "options": [
+        "Necesitan información sobre los efectos de las acciones del agente en el mundo",
+        "Necesitan información sobre el mundo independientemente de las acciones del agente",
+        "Necesitan información sobre cómo el agente percibe el estado del mundo",
+        "Únicamente es necesario codificar en el programa del agente aquel conocimiento relativo a las acciones del agente"
+      ],
+      "question": "Selecciona la falsa respecto a los agentes reactivos basados en modelos:",
+      "correct_answer": "Únicamente es necesario codificar en el programa del agente aquel conocimiento relativo a las acciones del agente"
+    },
+    {
+      "id": "q5_2023_A",
+      "type": "single_choice",
+      "options": [
+        "con un rombo donde el centro son los datos y ambos extremos son la información y el conocimiento respectivamente",
+        "con una pirámide donde la base es el conocimiento, el medio los datos y la punta la información",
+        "con una pirámide donde la base es la información, el medio los datos y la punta el conocimiento",
+        "con una pirámide donde la base es los datos, el medio la información y la punta el conocimiento"
+      ],
+      "question": "La jerarquía del conocimiento se representa:",
+      "correct_answer": "con una pirámide donde la base es los datos, el medio la información y la punta el conocimiento"
+    },
+    {
+      "id": "q6_2023_A",
+      "type": "single_choice",
+      "options": [
+        "El procesado de datos es muy diferente al procesado de información",
+        "La adquisición de datos es muy diferente a la adquisición de conocimiento",
+        "Un error en los datos no implicará conocimiento inadecuado",
+        "Es necesario disponer de métodos que permitan evaluar la calidad de los datos"
+      ],
+      "question": "Selecciona la falsa:",
+      "correct_answer": "Un error en los datos no implicará conocimiento inadecuado"
+    },
+    {
+      "id": "q7_2023_A",
+      "type": "single_choice",
+      "options": [
+        "Existen diferentes formas de representación, no una solución única",
+        "Los sistemas más fáciles de comprender son, a menudo, los más exitosos",
+        "Un sistema debe ser versátil para adaptarse a nuevas informaciones no representadas previamente",
+        "Una buena representación no tiene ninguna relación con la ejecución de operaciones con la información"
+      ],
+      "question": "Selecciona la falsa respecto a la representación del conocimiento:",
+      "correct_answer": "Una buena representación no tiene ninguna relación con la ejecución de operaciones con la información"
+    },
+    {
+      "id": "q8_2023_A",
+      "type": "single_choice",
+      "options": [
+        "Diferentes ontologías pueden proponer diferentes modelos",
+        "Una ontología representa palabras, no conceptos",
+        "Si cambia el idioma de una ontología, las palabras cambiarán, pero no los conceptos",
+        "Una ontología es un método de representación del conocimiento de un dominio concreto"
+      ],
+      "question": "Selecciona la falsa:",
+      "correct_answer": "Una ontología representa palabras, no conceptos"
+    },
+    {
+      "id": "q9_2023_A",
+      "type": "single_choice",
+      "options": [
+        "RDF es una extensión de XML",
+        "RDF es un modelo abstracto que no necesita de serialización",
+        "RDF representa el conocimiento utilizando oraciones del tipo",
+        "Una tripleta RDF es el equivalente a una oración simple"
+      ],
+      "question": "Selecciona la verdadera respecto a RDF:",
+      "correct_answer": "Una tripleta RDF es el equivalente a una oración simple"
+    },
+    {
+      "id": "q10_2023_A",
+      "type": "single_choice",
+      "options": [
+        "XML-TRI",
+        "RDF/XML",
+        "XMLRDF",
+        "N3/XML"
+      ],
+      "question": "La traducción de las tripletas RDF a XML se denomina:",
+      "correct_answer": "RDF/XML"
+    },
+    {
+      "id": "q11_2023_A",
+      "type": "single_choice",
+      "options": [
+        "La web semántica es una web no estructurada",
+        "Las ontologías son la columna vertebral de la web semántica",
+        "Las ontologías tienen que ser estáticas",
+        "La web semántica no tiene por qué ser comprensible por las máquinas sino únicamente por los humanos"
+      ],
+      "question": "Seleccione la verdadera respecto a la web semántica:",
+      "correct_answer": "Las ontologías son la columna vertebral de la web semántica"
+    },
+    {
+      "id": "q12_2023_A",
+      "type": "single_choice",
+      "options": [
+        "Emplear URIs para identificar recursos",
+        "Los recursos no deben poder ser accedidos mediante HTTP URIs",
+        "Al acceder a un recurso, proporcionar información empleando estándares como RDF o SPARQL",
+        "Fijar enlaces entre las URIs de los recursos para facilitar el descubrimiento de información"
+      ],
+      "question": "¿Cuál de los siguientes NO es un principio básico de los datos enlazados?",
+      "correct_answer": "Los recursos no deben poder ser accedidos mediante HTTP URIs"
+    },
+    {
+      "id": "q13_2023_A",
+      "type": "single_choice",
+      "options": [
+        "Mapas conceptuales",
+        "Tesauros",
+        "Índice representativo",
+        "Folksonomías"
+      ],
+      "question": "¿Cuál de estos no es un modelo de representación del conocimiento?",
+      "correct_answer": "Índice representativo"
+    },
+    {
+      "id": "q14_2023_A",
+      "type": "single_choice",
+      "options": [
+        "representan de manera sencilla clasificaciones de datos",
+        "es un concepto que nace en el ámbito informático y se expande a otras disciplinas",
+        "son índices no jerárquicos",
+        "son una evolución de las folksonomías"
+      ],
+      "question": "Las taxonomías:",
+      "correct_answer": "representan de manera sencilla clasificaciones de datos"
+    },
+    {
+      "id": "q15_2023_A",
+      "type": "single_choice",
+      "options": [
+        "Se debe evitar la normalización de los datos de entrada del algoritmo de aprendizaje",
+        "El conjunto de pruebas del algoritmo de aprendizaje puede ser el mismo que el conjunto de entrenamiento",
+        "Se debe evitar el uso de vectores para los datos de entrada y salida de los datos",
+        "La calidad de los datos se puede mejorar aplicando técnicas de preprocesamiento como el suavizado"
+      ],
+      "question": "Selecciona la verdadera respecto al aprendizaje automático:",
+      "correct_answer": "La calidad de los datos se puede mejorar aplicando técnicas de preprocesamiento como el suavizado"
+    },
+    {
+      "id": "q16_2023_A",
+      "type": "single_choice",
+      "options": [
+        "Redes Neuronales Artificiales",
+        "Redes Bayesianas",
+        "K-Nearest Neighbor",
+        "Máquinas de Soporte Vectorial"
+      ],
+      "question": "Los Mapas de Autoorganización (SOM) es un tipo de:",
+      "correct_answer": "Redes Neuronales Artificiales"
+    },
+    {
+      "id": "q17_2023_A",
+      "type": "single_choice",
+      "options": [
+        "Los sistemas expertos no utilizan conocimiento humano",
+        "Los sistemas expertos deben evitar emular el comportamiento humano",
+        "Los sistemas basados en conocimiento pertenecen a una ramificación de la inteligencia artificial, concretamente a los sistemas expertos",
+        "Forman parte de la ingeniería del conocimiento"
+      ],
+      "question": "Selecciona la verdadera respecto a los sistemas basados en conocimiento y sistemas expertos:",
+      "correct_answer": "Forman parte de la ingeniería del conocimiento"
+    },
+    {
+      "id": "q18_2023_A",
+      "type": "single_choice",
+      "options": [
+        "El conocimiento almacenado por el Sistema experto es más difícil de compartir y difundir que el de un experto humano",
+        "Sirve de apoyo para que personal con poca experiencia pueda llevar a cabo tareas complejas",
+        "Los sistemas expertos suelen ser más rápidos en comparación a los humanos",
+        "Permite combinar el conocimiento de varios expertos humanos en un único sistema"
+      ],
+      "question": "¿Cuál de las siguientes no es una ventaja de los sistemas expertos?",
+      "correct_answer": "El conocimiento almacenado por el Sistema experto es más difícil de compartir y difundir que el de un experto humano"
+    },
+    {
+      "id": "q1_2023_B",
+      "type": "single_choice",
+      "options": [
+        "Un agente racional cuenta con un modelo interno que reúne todas las creencias sobre el escenario en el que actúa",
+        "Un agente racional cuenta con una función de recompensa que permite su aprendizaje",
+        "Un agente racional cuenta con una función objetivo que encapsula su propósito",
+        "Un agente racional no puede calcular la calidad de las soluciones candidatas"
+      ],
+      "question": "Selecciona la falsa:",
+      "correct_answer": "Un agente racional no puede calcular la calidad de las soluciones candidatas"
+    },
+    {
+      "id": "q2_2023_B",
+      "type": "single_choice",
+      "options": [
+        "Conocimiento diseñado",
+        "Conocimiento a priori",
+        "Conocimiento raíz",
+        "Ninguna de las anteriores"
+      ],
+      "question": "El conocimiento que un agente posee desde el propio de diseño del mismo se denomina:",
+      "correct_answer": "Conocimiento a priori"
+    },
+    {
+      "id": "q3_2023_B",
+      "type": "single_choice",
+      "options": [
+        "El código de un agente siempre se ejecuta bajo demanda",
+        "Un agente tiene autonomía para seleccionar tareas, priorizar y tomar decisiones sin intervención humana",
+        "Los agentes no dependen del contexto en el que se ejecutan",
+        "Una tarea no puede ser realizada por varios agentes que colaboran con un mismo objetivo"
+      ],
+      "question": "Selecciona la verdadera:",
+      "correct_answer": "Un agente tiene autonomía para seleccionar tareas, priorizar y tomar decisiones sin intervención humana"
+    },
+    {
+      "id": "q4_2023_B",
+      "type": "single_choice",
+      "options": [
+        "Agente reactivo simple",
+        "Agente reactivo basado en modelos",
+        "Agente basado en objetivos",
+        "Agentes basados en utilidad"
+      ],
+      "question": "Los agentes que mantienen algún tipo de estado interno que dependa del historial de percepciones, se denominan:",
+      "correct_answer": "Agente reactivo basado en modelos"
+    },
+    {
+      "id": "q5_2023_B",
+      "type": "single_choice",
+      "options": [
+        "puede ser una declaración simple de lógica booleana",
+        "debe ser una condición estructurada en IF-WHEN-ELSE-UNLESS",
+        "puede ser una regla de lógica booleana basada en los estados anteriores",
+        "Ninguna de las anteriores"
+      ],
+      "question": "Una regla de un agente reactivo simple:",
+      "correct_answer": "puede ser una declaración simple de lógica booleana"
+    },
+    {
+      "id": "q6_2023_B",
+      "type": "single_choice",
+      "options": [
+        "Dato",
+        "Información",
+        "Conocimiento",
+        "Ontología"
+      ],
+      "question": "Un hecho concreto y discreto acerca de un evento, se denomina:",
+      "correct_answer": "Dato"
+    },
+    {
+      "id": "q7_2023_B",
+      "type": "single_choice",
+      "options": [
+        "Datos estructurados",
+        "Datos no estructurados",
+        "Datos oscuros",
+        "Datos abiertos"
+      ],
+      "question": "La agrupación de datos que tiene un orden, se denominan:",
+      "correct_answer": "Datos estructurados"
+    },
+    {
+      "id": "q8_2023_B",
+      "type": "single_choice",
+      "options": [
+        "la disponibilidad de los datos para el uso requerido",
+        "el grado en que la información proporcionada es suficiente para realizar las tareas asignadas",
+        "la medida en que los datos representan fielmente los objetos del mundo real a los que se refieren",
+        "la medida en que los datos respaldan al propósito para el que fueron obtenidos"
+      ],
+      "question": "La precisión de los datos se define como:",
+      "correct_answer": "la medida en que los datos representan fielmente los objetos del mundo real a los que se refieren"
+    },
+    {
+      "id": "q9_2023_B",
+      "type": "single_choice",
+      "options": [
+        "Una buena representación del conocimiento no necesita ser comprensible por los humanos",
+        "La representación del conocimiento no tiene por qué seguir las reglas de la lógica",
+        "Una buena representación del conocimiento ha de tener capacidad de adaptación ante nuevo conocimiento",
+        "Una buena representación del conocimiento no tiene por qué facilitar el procesamiento del mismo"
+      ],
+      "question": "Selecciona la verdadera:",
+      "correct_answer": "Una buena representación del conocimiento ha de tener capacidad de adaptación ante nuevo conocimiento"
+    },
+    {
+      "id": "q10_2023_B",
+      "type": "single_choice",
+      "options": [
+        "reglas escritas en forma lógica",
+        "rasgos o características de los objetos y las clases",
+        "instancias que representan conceptos",
+        "conjunto de objetos agrupados por tipo"
+      ],
+      "question": "Los axiomas en una ontología son:",
+      "correct_answer": "reglas escritas en forma lógica"
+    },
+    {
+      "id": "q11_2023_B",
+      "type": "single_choice",
+      "options": [
+        "RDF-b-JSON",
+        "JSON/N3",
+        "RDF/JSON",
+        "JSON-LD"
+      ],
+      "question": "La serialización de RDF basada en JSON, se denomina:",
+      "correct_answer": "JSON-LD"
+    },
+    {
+      "id": "q12_2023_B",
+      "type": "single_choice",
+      "options": [
+        "SPARQL",
+        "RDFSQL",
+        "SPARDESC",
+        "RDFQuery"
+      ],
+      "question": "El lenguaje de búsqueda de información especializado en tripletas RDF se denomina:",
+      "correct_answer": "SPARQL"
+    },
+    {
+      "id": "q13_2023_B",
+      "type": "single_choice",
+      "options": [
+        "Emplear URIs para identificar recursos",
+        "Los recursos no deben poder ser accedidos mediante HTTP URIs",
+        "Al acceder a un recurso, proporcionar información empleando estándares como RDF SPARQL",
+        "Fijar enlaces entre las URIs de los recursos para facilitar el descubrimiento de información"
+      ],
+      "question": "¿Cuál de los siguientes NO es un principio básico de los datos enlazados?",
+      "correct_answer": "Los recursos no deben poder ser accedidos mediante HTTP URIs"
+    },
+    {
+      "id": "q14_2023_B",
+      "type": "single_choice",
+      "options": [
+        "permite extraer contenido de la web semántica",
+        "permite construir grafos con el fin de extraer conocimiento, debilidades y temas importantes",
+        "permite realizar seguimiento a usuarios para descubrir patrones de comportamiento",
+        "Ninguna de las anteriores"
+      ],
+      "question": "La Minería de la Web Semántica respecto al uso:",
+      "correct_answer": "permite realizar seguimiento a usuarios para descubrir patrones de comportamiento"
+    },
+    {
+      "id": "q15_2023_B",
+      "type": "single_choice",
+      "options": [
+        "Es una colección de términos generados por una única persona",
+        "Es una tarea compleja con una alta carga de cálculo computacional",
+        "Permiten capturar el verdadero interés o conocimiento de los usuarios de un sistema",
+        "No permiten establecer relaciones entre términos que se refieren a un mismo recurso"
+      ],
+      "question": "Selecciona la verdadera respecto a las folksonomías",
+      "correct_answer": "Permiten capturar el verdadero interés o conocimiento de los usuarios de un sistema"
+    },
+    {
+      "id": "q16_2023_B",
+      "type": "single_choice",
+      "options": [
+        "Lógica proposicional",
+        "Lógica booleana",
+        "Lógica de Primer Orden",
+        "Lógica euclídea"
+      ],
+      "question": "El sistema de lógica que puede ser interpretado por valores, funciones y relaciones se denomina:",
+      "correct_answer": "Lógica de Primer Orden"
+    },
+    {
+      "id": "q17_2023_B",
+      "type": "single_choice",
+      "options": [
+        "Se pueden integrar diferentes fuentes de datos",
+        "Tener información repetitiva no es una buena práctica",
+        "Nunca se debe reducir el número de datos disponibles para el algoritmo de aprendizaje",
+        "El proceso de identificación de ruido detecta datos fuera de lo normal"
+      ],
+      "question": "Selecciona la falsa respecto al aprendizaje automático:",
+      "correct_answer": "Nunca se debe reducir el número de datos disponibles para el algoritmo de aprendizaje"
+    },
+    {
+      "id": "q18_2023_B",
+      "type": "single_choice",
+      "options": [
+        "Redes Neuronales Artificiales",
+        "Redes Bayesianas",
+        "K-Nearest Neighbor",
+        "Máquinas de Soporte Vectorial"
+      ],
+      "question": "¿Qué tipo de aprendizaje es usado para predecir qué instancias de una base de datos se encuentran más cerca de una nueva instancia?:",
+      "correct_answer": "K-Nearest Neighbor"
+    },
+    {
+      "id": "2025_1",
+      "type": "single_choice",
+      "options": [
+        "Un agente tiene capacidad para decidir por sí mismo el código que se va a ejecutar en base a la actividad que quiera realizar",
+        "Un agente no tiene autonomía para seleccionar tareas, priorizar y tomar decisiones sin intervención humana",
+        "Los agentes no dependen del contexto en el que se ejecutan",
+        "Una tarea no puede ser realizada por varios agentes que colaboran con un mismo objetivo"
+      ],
+      "question": "Selecciona la verdadera:",
+      "correct_answer": "Un agente tiene capacidad para decidir por sí mismo el código que se va a ejecutar en base a la actividad que quiera realizar"
+    },
+    {
+      "id": "2025_2",
+      "type": "single_choice",
+      "options": [
+        "No tienen ninguna similitud con los agentes basados en objetivos",
+        "Clasifica los estados en “felices” e “infelices”.",
+        "No son útiles en la toma de decisiones en condiciones de incertidumbre",
+        "Ninguna de las anteriores"
+      ],
+      "question": "Selecciona la verdadera respecto a los agentes basados en utilidad:",
+      "correct_answer": "Clasifica los estados en “felices” e “infelices”."
+    },
+    {
+      "id": "2025_3",
+      "type": "single_choice",
+      "options": [
+        "Un agente que sólo se basa en conocimiento a priori no es un agente autónomo",
+        "El conocimiento de un agente no puede ser modificado por la experiencia",
+        "Las acciones de un agente sólo dependen de sus sensores",
+        "Ninguna de las anteriores"
+      ],
+      "question": "Selecciona la verdadera:",
+      "correct_answer": "Un agente que sólo se basa en conocimiento a priori no es un agente autónomo"
+    },
+    {
+      "id": "2025_4",
+      "type": "single_choice",
+      "options": [
+        "Incorporan la problemática de la búsqueda y la planificación",
+        "Son agentes totalmente reactivos",
+        "Son más eficientes, pero menos adaptables y menos flexibles",
+        "Únicamente tiene en cuenta el estado y sus acciones"
+      ],
+      "question": "Selecciona la verdadera respecto a los agentes basados en objetivos:",
+      "correct_answer": "Incorporan la problemática de la búsqueda y la planificación"
+    },
+    {
+      "id": "2025_5",
+      "type": "single_choice",
+      "options": [
+        "Los agentes incorporan una noción de autonomía más fuerte que la de los objetos",
+        "Los agentes tienen un comportamiento flexible: reactivo, proactivo, social.",
+        "Los agentes se ejecutan con un único hilo de control, mientras que los objetos son intrínsecamente multihilo",
+        "Los objetos tienen un diseño orientado a la programación, mientras que los agentes tienen en cuenta la función en el ambiente y la relación con otros agentes"
+      ],
+      "question": "Selecciona la falsa:",
+      "correct_answer": "Los agentes se ejecutan con un único hilo de control, mientras que los objetos son intrínsecamente multihilo"
+    },
+    {
+      "id": "2025_6",
+      "type": "single_choice",
+      "options": [
+        "Una buena representación del conocimiento no necesita ser comprensible por los humanos",
+        "La representación del conocimiento no tiene por qué seguir las reglas de la lógica",
+        "Una buena representación del conocimiento ha de tener capacidad de adaptación ante nuevo conocimiento",
+        "Una buena representación no tiene por qué facilitar el procesamiento del mismo"
+      ],
+      "question": "Selecciona la falsa:",
+      "correct_answer": "Una buena representación no tiene por qué facilitar el procesamiento del mismo"
+    },
+    {
+      "id": "2025_7",
+      "type": "single_choice",
+      "options": [
+        "RDF no define cómo deben ser las URIs",
+        "Se pueden mezclar URIs de diferentes proveedores.",
+        "Una URI puede cambiar con el tiempo, pero debe ser válida de forma universal",
+        "Existen catálogos predefinidos de recursos"
+      ],
+      "question": "Selecciona la falsa respecto a las URIs de RDF:",
+      "correct_answer": "Existen catálogos predefinidos de recursos"
+    },
+    {
+      "id": "2025_8",
+      "type": "single_choice",
+      "options": [
+        "Los sistemas expertos no manejan fácilmente situaciones ambiguas",
+        "El aprendizaje en base a errores propios es muy complejo en los sistemas expertos",
+        "Para actualizar un sistema experto, éste debe reprogramarse",
+        "Los sistemas expertos están preparados para trabajar con información no estructurada"
+      ],
+      "question": "Selecciona la falsa respecto a los sistemas expertos:",
+      "correct_answer": "Los sistemas expertos están preparados para trabajar con información no estructurada"
+    },
+    {
+      "id": "2025_9",
+      "type": "single_choice",
+      "options": [
+        "la disponibilidad de los datos para el uso requerido",
+        "el grado en que la información proporcionada es suficiente para realizar las tareas asignadas",
+        "la medida en que los datos representan fielmente los objetos del mundo real a los que se refieren",
+        "la medida en que los datos respaldan al propósito para el que fueron obtenidos"
+      ],
+      "question": "La accesibilidad de los datos se define como:",
+      "correct_answer": "la disponibilidad de los datos para el uso requerido"
+    },
+    {
+      "id": "2025_10",
+      "type": "single_choice",
+      "options": [
+        "Minería estructurada",
+        "Minería de conocimiento",
+        "Minería ontológica",
+        "Minería dinámica"
+      ],
+      "question": "¿Cómo se denomina a la minería que actúa sobre las ontologías?",
+      "correct_answer": "Minería ontológica"
+    },
+    {
+      "id": "2025_11",
+      "type": "single_choice",
+      "options": [
+        "Un agente se define en términos de su comportamiento, mientras que los objetos se definen en términos de métodos y atributos",
+        "Tiene un enfoque totalmente diferente al de la programación orientada a agentes",
+        "En la programación orientada a agentes, el usuario debe conocer el funcionamiento interno del agente y su estructura, al igual que en la orientación a objetos.",
+        "Ninguna de las anteriores"
+      ],
+      "question": "Selecciona la verdadera respecto a la programación orientada a agentes:",
+      "correct_answer": "Un agente se define en términos de su comportamiento, mientras que los objetos se definen en términos de métodos y atributos"
+    },
+    {
+      "id": "2025_12",
+      "type": "single_choice",
+      "options": [
+        "Dato",
+        "Información",
+        "Conocimiento",
+        "Ontología"
+      ],
+      "question": "Un conjunto de datos provisto de una relación semántica entre ellos, se denomina:",
+      "correct_answer": "Información"
+    },
+    {
+      "id": "2025_13",
+      "type": "single_choice",
+      "options": [
+        "la disponibilidad de los datos para el uso requerido",
+        "el grado en que la información proporcionada es suficiente para realizar las tareas asignadas",
+        "la medida en que los datos representan fielmente los objetos del mundo real a los que se refieren",
+        "la medida en que los datos respaldan al propósito para el que fueron obtenidos"
+      ],
+      "question": "La relevancia de los datos se define como:",
+      "correct_answer": "la medida en que los datos respaldan al propósito para el que fueron obtenidos"
+    },
+    {
+      "id": "2025_14",
+      "type": "single_choice",
+      "options": [
+        "colección de términos y relaciones horizontales entre los mismos",
+        "descripción de conceptos, jerarquía de clases y restricciones de relaciones",
+        "aspectos, verdades y restricciones",
+        "colección de términos, definiciones de términos y jerarquía entre los términos"
+      ],
+      "question": "Un tesauro se compone de:",
+      "correct_answer": "colección de términos, definiciones de términos y jerarquía entre los términos"
+    },
+    {
+      "id": "2025_15",
+      "type": "single_choice",
+      "options": [
+        "realiza frecuentes inferencias para satisfacer hechos, dando primacía a reglas cumplidas y promoviendo la ejecución de la regla más prioritaria",
+        "contiene la información de normas que componen el conocimiento de un experto en un área específica",
+        "es la parte de la estructura básica que hace posible la interacción entre distintos tipos de entidades con el Sistema Experto",
+        "es la encargada de mantener los conocimientos activos"
+      ],
+      "question": "La base de conocimiento de un sistema experto:",
+      "correct_answer": "contiene la información de normas que componen el conocimiento de un experto en un área específica"
+    },
+    {
+      "id": "2025_16",
+      "type": "single_choice",
+      "options": [
+        "Sensores, actuadores, entorno, objetivo",
+        "Sensores, actuadores, entorno, objetivo, medidas de rendimiento, elementos de aprendizaje y medidas de deseabilidad",
+        "Sensores, actuadores, entorno, objetivo, medidas de rendimiento, elementos de aprendizaje",
+        "Ninguna de las anteriores"
+      ],
+      "question": "Una especificación completa de un agente está compuesta por:",
+      "correct_answer": "Sensores, actuadores, entorno, objetivo, medidas de rendimiento, elementos de aprendizaje"
+    },
+    {
+      "id": "2025_17",
+      "type": "single_choice",
+      "options": [
+        "la disponibilidad de los datos para el uso requerido",
+        "el grado en que la información proporcionada es suficiente para realizar las tareas asignadas",
+        "la medida en que los datos representan fielmente los objetos del mundo real a los que se refieren",
+        "la medida en que los datos respaldan al propósito para el que fueron obtenidos"
+      ],
+      "question": "La integridad de los datos se define como:",
+      "correct_answer": "el grado en que la información proporcionada es suficiente para realizar las tareas asignadas"
+    },
+    {
+      "id": "2025_18",
+      "type": "single_choice",
+      "options": [
+        "Ontologías de dominio y ontologías de nivel superior",
+        "Ontologías de nivel inferior y ontologías de nivel superior",
+        "Ontologías de dominio y ontologías de conceptos",
+        "Ontologías de conceptos, ontologías de universales y ontologías de propiedades"
+      ],
+      "question": "Las ontologías pueden clasificarse en:",
+      "correct_answer": "Ontologías de dominio y ontologías de nivel superior"
+    },
+    {
+      "id": "2025_19",
+      "type": "single_choice",
+      "options": [
+        "RDF Schema no permite la creación de jerarquías de clases y subclases",
+        "RDF Schema es una capa adicional construida sobre RDF para aportar expresividad semántica",
+        "RDF Schema no permite incluir descripciones de tipo texto",
+        "RDF Schema no está estandarizado"
+      ],
+      "question": "Selecciona la verdadera respecto a RDF Schema:",
+      "correct_answer": "RDF Schema es una capa adicional construida sobre RDF para aportar expresividad semántica"
+    },
+    {
+      "id": "2025_20",
+      "type": "single_choice",
+      "options": [
+        "Redes Neuronales Artificiales",
+        "Redes Bayesianas",
+        "K-Nearest Neighbor",
+        "Máquinas de Soporte Vectorial"
+      ],
+      "question": "¿Qué tipo de algoritmo de aprendizaje tiene como propósito transformar un conjunto de datos de una dimensión 𝑛 hacia un espacio de dimensión superior aplicando una función kernel?:",
+      "correct_answer": "Máquinas de Soporte Vectorial"
+    },
+    {
+      "id": "2025_21",
+      "type": "single_choice",
+      "options": [
+        "realiza frecuentes inferencias para satisfacer hechos, dando primacía a reglas cumplidas y promoviendo la ejecución de la regla más prioritaria",
+        "contiene la información de normas que componen el conocimiento de un experto en un área específica",
+        "es la parte de la estructura básica que hace posible la interacción entre distintos tipos de entidades con el Sistema Experto",
+        "es la encargada de mantener los conocimientos activos"
+      ],
+      "question": "La memoria de trabajo (base de hechos) de un sistema experto:",
+      "correct_answer": "es la encargada de mantener los conocimientos activos"
+    },
+    {
+      "id": "2025_22",
+      "type": "single_choice",
+      "options": [
+        "Agente reactivo simple",
+        "Agente reactivo basado en modelos",
+        "Agente basado en objetivos",
+        "Agentes basados en utilidad"
+      ],
+      "question": "Los agentes que seleccionan las acciones a realizar en base a la información de estado, la información sobre el objetivo que describe situaciones deseables y también con un componente de utilidad, se denominan:",
+      "correct_answer": "Agentes basados en utilidad"
+    },
+    {
+      "id": "2025_23",
+      "type": "single_choice",
+      "options": [
+        "Utilizar una ontología existente cuando sea posible",
+        "Utilizar convenciones de nomenclaturas",
+        "Utilizar términos distintos en cada ontología independiente (incluso cuando se refieran a los mismos conceptos)",
+        "Ajustarse a las ontologías de nivel superior"
+      ],
+      "question": "¿Cuál de las siguientes prácticas NO se recomiendan a la hora de construir una ontología de dominio?",
+      "correct_answer": "Utilizar términos distintos en cada ontología independiente (incluso cuando se refieran a los mismos conceptos)"
+    },
+    {
+      "id": "2025_24",
+      "type": "single_choice",
+      "options": [
+        "La suposición de que no hay nombres únicos establece que, a menos que se indique explícitamente lo contrario, no se puede asumir que los recursos identificados por diferentes URLs son diferentes",
+        "La suposición de mundo abierto establece que la verdad de un enunciado es independiente de si se conoce.",
+        "Con OWL se pueden escribir ontologías más rápido, pero sin poder incluir metadatos",
+        "Con OWL se pueden imponer restricciones bidireccionales y relaciones encadenadas"
+      ],
+      "question": "Selecciona la falsa respecto a OWL:",
+      "correct_answer": "Con OWL se pueden escribir ontologías más rápido, pero sin poder incluir metadatos"
+    },
+    {
+      "id": "2025_25",
+      "type": "single_choice",
+      "options": [
+        "La lógica de primer orden utiliza cuantificadores, constantes y variables",
+        "La lógica proposicional permite derivar razonamientos",
+        "La lógica de primer orden se puede aplicar en la demostración automatizada de teoremas matemáticos",
+        "La lógica proposicional no da cabida a los objetos no lógicos"
+      ],
+      "question": "Selecciona la falsa:",
+      "correct_answer": "La lógica proposicional no da cabida a los objetos no lógicos"
+    },
+    {
+      "id": "2025_26",
+      "type": "single_choice",
+      "options": [
+        "realiza frecuentes inferencias para satisfacer hechos, dando primacía a reglas cumplidas y promoviendo la ejecución de la regla más prioritaria",
+        "contiene la información de normas que componen el conocimiento de un experto en un área específica",
+        "es la parte de la estructura básica que hace posible la interacción entre distintos tipos de entidades con el Sistema Experto",
+        "es la encargada de mantener los conocimientos activos"
+      ],
+      "question": "El motor de inferencia de un sistema experto:",
+      "correct_answer": "realiza frecuentes inferencias para satisfacer hechos, dando primacía a reglas cumplidas y promoviendo la ejecución de la regla más prioritaria"
+    }
+  ]
+}
