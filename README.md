@@ -22,3 +22,4 @@ Part of the DevQuiz-Hub ecosystem.
 The current dataset contains **62 single-choice questions** from **2023 (A and B)** and **2025**.
 
 ## 🚀 Live Demo
+https://devquiz-hub.github.io/quiz-si/
